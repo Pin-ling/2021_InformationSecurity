@@ -7,13 +7,10 @@
 
 <code>
   Input:
-  
   deceptive
-  
   wearediscoveredsaveyourself
   
   Output:
-  
   zicvtwqngkzeiigasxstslvvwla
 </code>
 
