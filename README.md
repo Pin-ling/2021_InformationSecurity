@@ -6,9 +6,9 @@
 1. Autokey chipher: 每單筆測資輸入 2 行，第 1 行表示 Key K，第 2 行表示要被加密的字串 S，其中K、S 皆為大小寫英文字母所組成
 
 <code>
-  Input:
-  deceptive
-  wearediscoveredsaveyourself
+  Input:\n
+  deceptive\n
+  wearediscoveredsaveyourself\n
   
   Output:
   zicvtwqngkzeiigasxstslvvwla
