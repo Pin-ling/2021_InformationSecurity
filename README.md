@@ -1,7 +1,7 @@
 # Information Security
 (資訊安全導論實作作業 2021/03 ~)
 
-## hw1: Classical Encryption Techniques (實作加密部分)
+## HW1: Classical Encryption Techniques (實作加密部分)
 ### Sample Input & Output
 1. Autokey chipher: 每單筆測資輸入 2 行，第 1 行表示 Key K，第 2 行表示要被加密的字串 S，其中K、S 皆為大小寫英文字母所組成
 ```
@@ -62,7 +62,7 @@
   ttnaaptmtsuoaodwcoixknlypetz
 ```
 
-## hw2: DES (ECB mode) (實作解密部分)
+## HW2: DES (ECB mode) (實作解密部分)
 每單筆測資會輸入 2 行，第一行表示 Key K (長度為 64 bits, 每個 Byte 的最後 1 bit 為 parity bits)，第二行表示密文 C
 K 以 [0-9a-f] 組成, 共有 16 個字元, 每 2 個字元組成 1 個 Byte；C 為 [0-9a-f] 組成, 每 2 個字元組成 1 個 Byte
 ```
